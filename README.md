@@ -5,6 +5,8 @@ ALY6140 Homework
 to determine the health status of citizens in the United States.
 The survey consists of interviews, physical examinations and laboratory tests.
 
+All data observation steps are presented in [NHANES_analysis.ipynb](https://github.com/fedorgrab/nhanes-analysis/blob/master/NHANES_analysis.ipynb)
+
 ## Goals:
 * Observe features correlating with depressive symptoms. 
 * Analyse spread of Major Depression over different social groups and statuses in the US.
@@ -16,7 +18,6 @@ The survey consists of interviews, physical examinations and laboratory tests.
 
 **Major Depression:** Depression is a PHQ–9 score of 10 or higher, because surveyed with a score > or = 10 have a sensetivity of 88% and a specificity of 88% for major depression according to [validity of a brief depression severity measure](https://www.ncbi.nlm.nih.gov/pubmed/11556941)
  
-All data observation steps are presented in [NHANES_analysis.ipynb](https://github.com/fedorgrab/nhanes-analysis/blob/master/NHANES_analysis.ipynb)
 
 ## Insights:
 
