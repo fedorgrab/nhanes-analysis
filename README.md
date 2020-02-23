@@ -10,6 +10,11 @@ The survey consists of interviews, physical examinations and laboratory tests.
 * Analyse spread of Major Depression over different social groups and statuses in the US.
 * Predict occurence of Major Depression.
 
+ ## Definitions:
+ 
+**Depression:** Measured by the NHANES using the Patient Health Questionnaire (PHQ–9), a screening instrument consisting of questions about the frequency of symptoms of depression over the past 2 weeks. Response categories are: "not at all", "several days", "more than half the days" and "nearly every day" represent a score of 0–3. A total score of 0–27 is then calculated.
+
+**Major Depression:** Depression is a PHQ–9 score of 10 or higher, because surveyed with a score > or = 10 have a sensetivity of 88% and a specificity of 88% for major depression according to [validity of a brief depression severity measure](https://www.ncbi.nlm.nih.gov/pubmed/11556941)
  
 All data observation steps are presented in [NHANES_analysis.ipynb](https://github.com/fedorgrab/nhanes-analysis/blob/master/NHANES_analysis.ipynb)
 
