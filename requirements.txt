@@ -3,6 +3,6 @@ seaborn==0.10.0
 numpy==1.18.1
 pandas==0.25.3
 scikit-learn==0.22.1
-requests==2.22.0
+requests==2.31.0
 matplotlib==3.1.2
 pywaffle==0.5.1
